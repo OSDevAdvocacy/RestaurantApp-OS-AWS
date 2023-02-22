@@ -1,7 +1,6 @@
-# AWS Bengalore User Group
-Content of the exercise done in the **AWS User Group in Bengalore**
+# Restaurant Application using OutSystems & AWS
 
-This repository contains the main components for you to implement a **Restaurant App** with **OutSystems**.
+This repository contains the main components for you to implement a **Restaurant App** with **OutSystems** and **AWS**.
 
 This application shows a list of Restaurants in Bengalore. This data is store in **DynamoDB** You can see the details of the restaurant and you can take a picture that it's analysed by **Amazon Rekognition** and is submitted to **Amazon S3**.
 

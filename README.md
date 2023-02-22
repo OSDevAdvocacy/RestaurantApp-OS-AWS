@@ -11,7 +11,7 @@ Here are the pre-requisites :
 
 1 - You'll need one bucket on S3 with the name **os-restaurant-images
 
-2 - You'll need one DynamoDB Table with the name Restaurant populated with the data from the JSON in the Data folder
+2 - You'll need one DynamoDB Table with the name Restaurant populated with the data from the JSON in the [Starter folder](https://github.com/OSDevAdvocacy/AWSBengalore/tree/main/StartingPack)
 
 3 - You'll need access to Rekognition
 

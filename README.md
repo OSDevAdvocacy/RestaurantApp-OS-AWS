@@ -8,6 +8,7 @@ This application shows a list of Restaurants in Bengalore. You can see the detai
 Here are the pre-requisites :
 
 AWS
+
 1 - You'll need one bucket on S3 with the name os-restaurant-images
 2 - You'll need one DynamoDB Table with the name Restaurant populated with the data from the JSON in the Data folder
 3 - You'll need access to Rekognition
@@ -15,9 +16,11 @@ AWS
 5 - You'll need to make sure that the S3 and the DynamoDB table are set in the same region
 
 AWS CLI
+
 1 - You'll need to have the AWS CLI installed on your machine
 
 OutSystems
+
 1 - You'll need to have the following components installed on your environment:
 - DynamoDB connector 
 - Amazon Simple storage Service

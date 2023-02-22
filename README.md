@@ -8,7 +8,7 @@ Here are the pre-requisites :
 
 **AWS**
 
-1 - You'll need one bucket on S3 with the name **os-restaurant-images
+1 - You'll need one bucket on S3 with the name os-restaurant-images
 
 2 - You'll need one DynamoDB Table with the name Restaurant populated with the data from the JSON in the [Starter folder](https://github.com/OSDevAdvocacy/AWSBengalore/tree/main/StartingPack)
 

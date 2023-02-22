@@ -1,4 +1,4 @@
-# AWSBengalore
+# AWS Bengalore User Group
 Content of the exercise done in the AWS User Group in Bengalore
 
 This repository contains the main components for you to implement a Restaurant App with OutSystems.
@@ -27,14 +27,13 @@ AWS CLI
 OutSystems
 
 1 - You'll need to have the following components installed on your environment:
-- [DynamoDB connector] (https://www.outsystems.com/forge/component-overview/3549/amazon-dynamodb-connector)
-- [Amazon Simple storage Service] (https://www.outsystems.com/forge/component-overview/11172/amazon-simple-storage-service-s3)
-- [Camera Plugin] (https://www.outsystems.com/forge/component-overview/1390/camera-plugin)
-- [Common Plugin] (https://www.outsystems.com/forge/component-overview/1417/common-plugin)
+- [DynamoDB Connector](https://www.outsystems.com/forge/component-overview/3549/amazon-dynamodb-connector)
+- [Amazon Simple storage Service](https://www.outsystems.com/forge/component-overview/11172/amazon-simple-storage-service-s3)
+- [Camera Plugin](https://www.outsystems.com/forge/component-overview/1390/camera-plugin)
+- [Common Plugin](https://www.outsystems.com/forge/component-overview/1417/common-plugin)
 
 2 - Install the starter app and the Customized version of the Amazon Rekognition
 
 3 - Confirue the Site Properties of the Starter app
-
 
 4 - Open the code of the starter app and on the GetMapsKey action put a Google Maps Key with the Maps Static API active
